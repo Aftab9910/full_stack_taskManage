@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Fullstack Project — Frontend Intern Assignment Template
 
 This repository is a full-stack assignment template suitable for a Frontend Developer Intern. It includes a React + Tailwind frontend and an Express + MongoDB backend with JWT authentication and task CRUD APIs.
@@ -93,3 +94,6 @@ If you want to extend this template, consider adding:
 - Docker or docker-compose for dev environment
 
 Good luck, and feel free to reach out if you'd like this repo trimmed to a challenge level or a student assignment checklist.
+=======
+# full_stack_taskManage
+>>>>>>> e083dd36b2a6a302118e92636588ffd54fc329fc
